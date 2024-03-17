@@ -27,6 +27,9 @@ This project was developed during my Python Development internship at Octanet Pv
 2. Install the required packages: `pip install -r requirements.txt`
 3. Run the `atm_interface.py` script to start the ATM system.
 
+## Internship Experience
+During this internship, I gained hands-on experience in Python development, GUI programming with tkinter, and collaborative remote work. The project provided practical exposure to building a real-world application and enhanced my skills in problem-solving, software development, and project management.
+
 ## Additional Information
 - **Internship Duration**: 30-60 days
 - **Internship Type**: Remote internship
